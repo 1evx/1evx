@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [https://1evx.github.io/Portfolio/](https://1evx.github.io/Portfolio/)
 
-- 💬 **Autisme**
-
 - 📫 How to reach me **poyehtan@gmail.com**
 
 - 📄 Know about my experiences [https://1evx.github.io/Portfolio/](https://1evx.github.io/Portfolio/)
 
-- ⚡ Fun fact **INFJ**
+- ⚡ Fun fact : **INFJ**
+
+- 💬 **Autisme**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
