@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://1evx.github.io/Portfolio/](https://1evx.github.io/Portfolio/)
 
-- 💬 **Currently Autisme**
+- 💬 **Autisme**
 
 - 📫 How to reach me **poyehtan@gmail.com**
 
