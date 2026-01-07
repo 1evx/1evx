@@ -40,4 +40,155 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/selenium" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+<p align="left">
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
+</a>
+
+<a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/>
+</a>
+
+</p>
+
