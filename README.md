@@ -1,23 +1,27 @@
 <h1 align="center">Hi 👋, I'm Levx</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-- 🌱 I’m currently learning **Computer Science (AI)**
+- 🌱 I’m currently pursuing **Bachelor of Computer Science (Hons) (Artificial Intelligence)**
 
-- 👨‍💻 All of my projects are available at [https://1evx.github.io/Portfolio/](https://1evx.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available on [My Website](https://1evx.github.io/Portfolio/)
 
 - 📫 How to reach me **poyehtan@gmail.com**
 
-- 📄 Know about my experiences [https://1evx.github.io/Portfolio/](https://1evx.github.io/Portfolio/)
+- 📄 Know about my experiences on [My Website](https://1evx.github.io/Portfolio/)
 
-- ⚡ Fun fact : **INFJ**
+- ⚡ Fun fact : **Several years of hands-on robotics experience**
 
-- 💬 **Autisme**
+- 💬 **Introverted, works best with clear goals and autonomy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/poyehtam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poyehtam" height="30" width="40" /></a>
-<a href="https://kaggle.com/levx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="levx" height="30" width="40" /></a>
-<a href="https://discord.gg/levx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="levx" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/poyehtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poyehtan" height="30" width="40" /></a>
+<!--
+  <a href="https://kaggle.com/levx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="levx" height="30" width="40" /></a>
+-->
+<!--
+  <a href="https://discord.gg/levx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="levx" height="30" width="40" /></a>
+-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
