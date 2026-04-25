@@ -29,42 +29,125 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/></a>
-  <a href="https://1evx.github.io/Portfolio/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/></a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=anaconda" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=azure" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=blender" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=c" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=dart" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=django" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=flask" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=flutter" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://cdn.simpleicons.org/huggingface" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=py" height="40"/>
+  </a>
+    <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+  </a>
+    <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  </a>
+    <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=scikitlearn" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=selenium" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=selenium" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=ts" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=unity" height="40"/>
+  </a>
+  <a href="https://1evx.github.io/Portfolio/">
+    <img src="https://skillicons.dev/icons?i=unreal" height="40"/>
+  </a>
 </p>
 
