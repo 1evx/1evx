@@ -138,9 +138,6 @@
     <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
   </a>
   <a href="https://1evx.github.io/Portfolio/">
-    <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-  </a>
-  <a href="https://1evx.github.io/Portfolio/">
     <img src="https://skillicons.dev/icons?i=ts" height="40"/>
   </a>
   <a href="https://1evx.github.io/Portfolio/">
