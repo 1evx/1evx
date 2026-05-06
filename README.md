@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Levx</h1>
 
-### A passionate developer from Malaysia:
+### A passionate developer:
 
 - 🌱 I’m currently pursuing **Bachelor of Computer Science (Hons) (Artificial Intelligence)**
 
