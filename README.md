@@ -12,7 +12,9 @@
 
 - ⚡ Fun fact : **Several years of hands-on robotics experience**
 
-- 💬 **Introverted, works best with clear goals and autonomy**
+- 💬 **Introverted and Autisme, works best with clear goals and autonomy**
+
+- 🚧 Status: Hating society now. In hermit mode.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
