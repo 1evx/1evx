@@ -14,7 +14,7 @@
 
 - 💬 **Introverted and Autisme, works best with clear goals and autonomy**
 
-- 🚧 Status: **Hating society now. In hermit mode.**
+- 💼 Status: **Graduated and Finding Jobs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
