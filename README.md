@@ -24,9 +24,6 @@
   <a href="https://linkedin.com/in/po-yeh-tan-a6169224a">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="https://kaggle.com/levx679">
-    <img src="https://skillicons.dev/icons?i=kaggle" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
