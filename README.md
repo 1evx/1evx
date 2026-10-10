@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact : **Several years of hands-on robotics experience**
 
-- 💬 **Introverted and Autisme, works best with clear goals and autonomy**
+- 💬 **Introverted works best with clear goals and autonomy**
 
 - 💼 Status: **Graduated and Finding Jobs**
 
